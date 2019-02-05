@@ -17,7 +17,7 @@
 
 	<div class="container-fluid">
 		<div class =  "row">
-			<p>Hotel Four Seasons, among the premier business hotel in amreli the economic capital of saurashtra is characterised by the traditionally hospitality located in the heart of the city.The ideal choice amongs hotels in Amreli for businessman and tourist. </p>
+			<p>Hotel Four Season, among the premier business hotel in amreli the economic capital of saurashtra is characterised by the traditionally hospitality located in the heart of the city.The ideal choice amongs hotels in Amreli for businessman and tourist. </p>
 		</div>
 		<div class="row">
 			<p>4Seasons offers facilities that no other Amreli hotels offer. Each room is elegantly well appointed and equipped with complete amenities including aircondition fully stock minibars,directIDD telephone,TV with 24 hour satelight entertainment and news.Upscale bathroom with hair dryers and cosmetic mirrors,seperate hanging closets.</p>
