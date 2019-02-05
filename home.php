@@ -12,7 +12,7 @@
 	?>
 
 	<div id = "heading">
-		<h1>It's Home</h1>
+		<h1>It's HOME</h1>
 	</div>
 
 	<div class="container-fluid">
